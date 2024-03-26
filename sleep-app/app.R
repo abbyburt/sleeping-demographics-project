@@ -1,5 +1,3 @@
-# Final project!
-
 # import libraries
 library(shiny)
 library(tidyverse)
@@ -44,13 +42,13 @@ sleeping_couples <- clean_names(sleeping_couples) %>%
     dif_schedule = x_11
   )
 
-# get rid of columns that hurt my eyes
+# get rid of columns difficult to see
 sleeping_couples <- sleeping_couples[, -7]
 sleeping_couples <- subset(sleeping_couples, select = -x_2)
 sleeping_couples <- subset(sleeping_couples, select = -x_12)
 sleeping_couples <- subset(sleeping_couples, select = -x_13)
 
-# get rid of 1st row that was used to label stuff
+# get rid of 1st row that was used to label 
 sleeping_couples <- sleeping_couples[-1, ]
 
 # changing reasons to 0/1
@@ -434,9 +432,7 @@ server <- function(input, output) {
       guides(fill = guide_legend(override.aes = list(color = NULL)))
 
     
-    # SECOND GRAPH  - tried to do the data filtering dynamically 
-    # but i tried for hours and nothing was working im sorry
-    # but atleast my first graph is dynamic... :') 
+    # SECOND GRAPH 
     
     # colors for agreements 
     custom_colors <- c(
