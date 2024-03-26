@@ -1,0 +1,13 @@
+name: sleep-app
+title: sleep-app
+username:
+account: etfejo-abby-burt
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9254607
+bundleId: 7318858
+url: https://etfejo-abby-burt.shinyapps.io/sleep-app/
+when: 1686187774.82943
+lastSyncTime: 1686187774.82944
+asMultiple: FALSE
+asStatic: FALSE
