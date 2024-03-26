@@ -1,4 +1,5 @@
-TO VIEW THE APP, GO TO THIS LINK: https://etfejo-abby-burt.shinyapps.io/sleep-app/ 
+CLICK TO VIEW APP: https://etfejo-abby-burt.shinyapps.io/sleep-app/ 
+
 Using RStudio and Shiny, I built an application with variety of widgets user interacts with to explore 7 different couple demographics. 
 It is designed to create and display data visualizations presenting survey data for reasons behind title question, and varying extents of couple agreements on specific survey questions, visually optimized for nontechnical and/or young audiences. 
 
