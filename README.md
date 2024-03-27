@@ -1,7 +1,7 @@
 CLICK TO VIEW APP: https://etfejo-abby-burt.shinyapps.io/sleep-app/ 
 
 Using RStudio and Shiny, I built an application with variety of widgets user interacts with to explore 7 different couple demographics. 
-It is designed to create and display data visualizations presenting survey data for reasons behind title question, and varying extents of couple agreements on specific survey questions, visually optimized for nontechnical and/or young audiences. 
+It is designed to create and display data visualizations presenting survey data for reasons behind "Why do American Couples Choose Not to Sleep in the Same Bed?" and varying extents of couple agreements on specific survey questions, visually optimized for nontechnical and/or young audiences. 
 
 
 A few of the core concepts and insights into the data that I believe my app creates is that snoring seems to be the most important reason among all regions of the United States, and that no_share_cov, not wanting to share the covers with each other, was deemed least important across the board (bar plot). Additionally, it showed that most people agreed that sleeping apart helped them sleep, and that people roughly equally have no opinion/strongly disagree that sleeping apart helped their sex life (dot plot).
